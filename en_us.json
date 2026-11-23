@@ -1,0 +1,11 @@
+{
+  "entity.skyrotor.helicopter": "Helicopter",
+  "item.skyrotor.helicopter": "Helicopter",
+  "key.skyrotor.engine": "Start/stop engine (hold 2 sec)",
+  "key.categories.skyrotor": "SkyRotor",
+  "message.skyrotor.hint": "Hold K for 2 seconds to start the engine. Space - up, Ctrl - down, WASD - fly, Shift - exit",
+  "message.skyrotor.starting": "Starting engine... %s%%",
+  "message.skyrotor.stopping": "Stopping engine... %s%%",
+  "message.skyrotor.started": "Engine started - taking off!",
+  "message.skyrotor.stopped": "Engine stopped"
+}

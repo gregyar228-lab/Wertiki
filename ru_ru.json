@@ -1,0 +1,11 @@
+{
+  "entity.skyrotor.helicopter": "Вертолёт",
+  "item.skyrotor.helicopter": "Вертолёт",
+  "key.skyrotor.engine": "Запуск/остановка двигателя (держать 2 сек)",
+  "key.categories.skyrotor": "SkyRotor",
+  "message.skyrotor.hint": "Зажми K на 2 секунды - запуск двигателя. Пробел - вверх, Ctrl - вниз, WASD - полёт, Shift - выйти",
+  "message.skyrotor.starting": "Запуск двигателя... %s%%",
+  "message.skyrotor.stopping": "Остановка двигателя... %s%%",
+  "message.skyrotor.started": "Двигатель запущен - взлёт!",
+  "message.skyrotor.stopped": "Двигатель остановлен"
+}
